@@ -15,7 +15,9 @@ Run from DockerHub
         docker run -it -p 8888:8083 johnfosborneiii/docker-mule-example
 
 2. The application will be running at the following URLs:
+</br>
 <http://localhost:8888/bookstore/>
+</br>
 <http://localhost:8888/bookstore-admin/>
 
 Build and Deploy locally
@@ -30,7 +32,9 @@ Build and Deploy locally
         docker run -it -p 8888:8083 docker-mule-example 
  
 4. The application will be running at the following URLs:
+</br>
 <http://localhost:8888/bookstore/>
+</br>
 <http://localhost:8888/bookstore-admin/>
 
 Run on OpenShift
